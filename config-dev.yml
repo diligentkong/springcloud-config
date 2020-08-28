@@ -1,2 +1,2 @@
 config:
-  info: "master branch,springcloud-config/config-dev.yml version=3333"
+  info: "master branch,springcloud-config/config-dev.yml version=444 消息总线bus测试"
